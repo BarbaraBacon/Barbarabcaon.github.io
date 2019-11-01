@@ -1,2 +1,2 @@
-# Barbarabacon.github.io
+# Barbarabcaon.github.io
  My own awesome website!
